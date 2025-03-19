@@ -1,0 +1,12 @@
+/* Quiz Styling */
+.quiz-card {
+  background: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.quiz-question {
+  border-left: 4px solid #0d6efd;
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+}
